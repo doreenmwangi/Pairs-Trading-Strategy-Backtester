@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pairs Trading Strategy Backtester
 
 A quantitative pairs trading strategy built in Python — using cointegration analysis, rolling OLS hedge ratios, and Z-score signal generation to backtest a market-neutral mean-reversion strategy on real stock data.
@@ -133,3 +134,7 @@ Final Portfolio (£)       112,400
 ## Disclaimer
 
 This project is for educational and portfolio purposes only. It is not financial advice.
+=======
+# Pairs-Trading-Strategy-Backtester
+A quantitative pairs trading strategy built in Python using cointegration analysis, rolling OLS hedge ratios, and Z-score signal generation to backtest a market-neutral mean-reversion strategy on real stock data.
+>>>>>>> 9a402f8afd92809909e7f5e5750f55fe9b4a608b
